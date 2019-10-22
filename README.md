@@ -37,6 +37,6 @@ HARDWARE AND OPERATING SYSTEM INFO
 
 # Thanks to
 
-[workhorsy](https://github.com/workhorsy/py-cpuinfo) 
+* [workhorsy](https://github.com/workhorsy/py-cpuinfo) 
 
-[giampaolo](https://github.com/giampaolo/psutil)
+* [giampaolo](https://github.com/giampaolo/psutil)
